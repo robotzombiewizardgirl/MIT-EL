@@ -1,0 +1,14 @@
+> come up with a better way to prevent use with neural networks (prescriptive, specific)
+> try to make the license less wordy
+> add some protections for patent sharking
+> make it copyleftier (no revoking, branching license clause, must provide source, etc)
+
+the motivation for basing this license on the MIT (X11) license in particular is because that license is relatively simple and very free.
+instead of starting with an overcomplicated predatory license that might be slightly more copyleft and attempting to work all its' issues out, 
+I started with the MIT license and am slowly making it more copyleft (e.g. removing right to sublicense). eventually this work will become 
+completely separate to the MIT license and at that point I will rename it, probably to
+
+> The RobotZombie Public License (RZPL)
+
+because it sounds cool and has four letters. I might also end up making it noncompliant with the FSF definition of "free" software, because
+allowing software to be used in malware is bad and reduces the overall freedom in the world. that's ages away though.
